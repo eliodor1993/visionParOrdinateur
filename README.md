@@ -15,3 +15,5 @@ A la sortie du programme on aura:
 Une image de fond de la vidéo, 
 Les images binaires des mouvements détectés, 
 La trajectoire du mouvement des objets.
+
+Les bases d'apprentissage et de tests contiennent les images des gens qui ne sont pas des personnages publiques donc raison pour laquelle je ne les ai pas publiés. 
