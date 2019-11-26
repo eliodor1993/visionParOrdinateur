@@ -1,11 +1,10 @@
 # visionParOrdinateur
-Ce repository contient les projets réalisés dans le cours de Vision Par Ordinateur
 
 1- Detection de la peau : 
    L’objectif est de construire une application de détection de la peau à partir d’une base d’apprentissage. Pour cela, j'ai tout d'abord construit une base d'exemples de « peau » et de « nonpeau» et gerer l'apprentissage avec notre programme. J'ai fait un apprentissage de la couleur de la peau en utilisant l'espace couleur CIE LAB (les composantes AB seulement. 
    
 2-Détection et Reconnaissance de visages : 
-  L'objectif est de créer un programme qui peut détecter et reconnaître des personnes dans des photos. Pour détecter des visages, j'ai utilisé la méthode proposée par Violas et Jones [IJCV 2004] qui est déjà installé dans OpenCV. En suite, nj'ai utilisé la
+  L'objectif est de créer un programme qui peut détecter et reconnaître des personnes dans des photos. Pour détecter des visages, j'ai utilisé la méthode proposée par Violas et Jones [IJCV 2004] qui est déjà installé dans OpenCV. En suite, j'ai utilisé la
 méthode de ACP (Analyse en Composantes Principales) pour la reconnaissance des visages détectées.
 
 3- Détection suivi de mouvement : 
